@@ -4,6 +4,7 @@ emoji: "🐍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["redash", "swr", "cache"]
 published: false
+publication_name: "hacobell_dev"
 ---
 
 ## はじめに

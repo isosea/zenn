@@ -1,9 +1,10 @@
 ---
-title: "RedashのAPIを見て「SWRみたいだ」と思ったけど違った話"
+title: "SWRかと思ったら違った - Redash APIとSWRの比較で理解するキャッシュ戦略"
 emoji: "🐍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["redash", "swr", "cache"]
-published: false
+published: true
+published_at: 2026-03-10 09:00
 publication_name: "hacobell_dev"
 ---
 
